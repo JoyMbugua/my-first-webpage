@@ -1,0 +1,17 @@
+body {
+    background-color: lightsalmon;
+}
+h1 {
+    color: white;
+ 
+}
+h2 {
+    color: yellow;
+    font-style: italic;
+ 
+p {
+    font-family: sans-serif;
+}
+ul {
+    line-height: 40px;
+}
